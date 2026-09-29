@@ -1,0 +1,13 @@
+#Variable N1: Single declaration
+a1 = 3            # int
+b2 = 'Hello'      # str ''
+c3 = "Hi"         # str ""
+d4 = 2.3          # float
+e5 = True         # Boolean
+
+#Variable N2: Multiple declaration
+a, b, c, = 81, 5, 6, 
+text_result = 'The sum of the following example 81-(5*6) ='
+
+#Output
+print(f"{text_result} {a-(c*b)}")
